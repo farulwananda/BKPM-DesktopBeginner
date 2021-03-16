@@ -22,7 +22,7 @@ public class deklarasi {
         
         //Deklarasi variabel yang benar
         boolean gameOver = false;
-        int students = 50, ckasses = 3;
+        int students = 50, classes = 3;
         double sales_tax;
         short number1;
     }
