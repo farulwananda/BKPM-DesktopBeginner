@@ -1,2 +1,2 @@
-Description :              
-Repository yang dikhususkan untuk memenuhi tugas-tugas perkuliahan Mata Kuliah Workshop Sistem Informasi Berbasis Desktop
+# Nama : E41202420 / Farul Ahmad Wananda          
+Repositori untuk Workshop Sistem Informasi Berbasis Desktop
